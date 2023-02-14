@@ -1,7 +1,7 @@
 {
   "name": "personal-website",
   "version": "1.0",
-  "homepage": "https://VedatAlpGoktepe.github.io",
+  "homepage": "https://vedatalpgoktepe.github.io/personal-website",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
