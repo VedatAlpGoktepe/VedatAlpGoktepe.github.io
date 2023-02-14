@@ -1,1 +1,0 @@
-A personal wesbsite made on a journey to learn ReactJS.
