@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.a5cd3ee6.css",
-    "main.js": "/static/js/main.cf608e9e.js",
+    "main.js": "/static/js/main.f27ad5d0.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/voltorb_solver.jpg": "/static/media/voltorb_solver.d90d1dca96f092fa0194.jpg",
     "static/media/prayer_times.jpg": "/static/media/prayer_times.efb3c03a030976528b9f.jpg",
     "static/media/the_wave.jpg": "/static/media/the_wave.5b06dd5e03e79f72e8fc.jpg",
     "static/media/course_planner.jpg": "/static/media/course_planner.fee60b302ee93babbd2a.jpg",
-    "static/media/vedat_goktepe_resume.pdf": "/static/media/vedat_goktepe_resume.d5f5de94970d40eb3820.pdf",
+    "static/media/vedat_goktepe_resume.pdf": "/static/media/vedat_goktepe_resume.ed2046297d5bc82db004.pdf",
     "static/media/roboto-all-400-normal.woff": "/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
     "static/media/roboto-latin-400-normal.woff2": "/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
     "static/media/roboto-cyrillic-ext-400-normal.woff2": "/static/media/roboto-cyrillic-ext-400-normal.804378952da8a10faae2.woff2",
@@ -18,11 +18,11 @@
     "static/media/roboto-greek-ext-400-normal.woff2": "/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "index.html": "/index.html",
     "main.a5cd3ee6.css.map": "/static/css/main.a5cd3ee6.css.map",
-    "main.cf608e9e.js.map": "/static/js/main.cf608e9e.js.map",
+    "main.f27ad5d0.js.map": "/static/js/main.f27ad5d0.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5cd3ee6.css",
-    "static/js/main.cf608e9e.js"
+    "static/js/main.f27ad5d0.js"
   ]
 }
